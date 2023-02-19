@@ -2,7 +2,7 @@
 id: 3yrgdixiaq1jl5og8mc23sj
 title: Emitter
 desc: ''
-updated: 1676775155996
+updated: 1676794735407
 created: 1676768798669
 ---
 
@@ -31,3 +31,9 @@ Noise Frequency: f=1/T，频率高，周期小，变化越快，施加的力的�
 ![CurlNoiseForce](Curl%20Noise%20force.png)
 
 ![CurlNoiseNiagara](assets/CurlNoise.gif)
+
+## 距离远了粒子看不到
+
+是材质的问题，需要在材质中勾选这个：
+
+![](ResponsiveAA.png)

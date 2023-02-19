@@ -49,3 +49,6 @@ Session.vim
 
 # Visual Studio
 .vs
+
+# Do not ignore docs directory 
+!/Docs/**

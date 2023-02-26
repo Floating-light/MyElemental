@@ -2,7 +2,7 @@
 id: dceii0itqf54ai3ecx32iyz
 title: Material
 desc: ''
-updated: 1677391841278
+updated: 1677392571839
 created: 1676808003982
 ---
 
@@ -37,4 +37,5 @@ Alpha大的时候，Fade Distance也小，Alpha小的区域，Fade的范围也�
 > :heavy_exclamation_mark:  UE中默认裁剪距离为24  
 
 
-**Note**
+> **Note**
+> Note ahh
